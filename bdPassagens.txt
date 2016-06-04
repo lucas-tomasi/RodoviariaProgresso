@@ -1,0 +1,7 @@
+1;12/12/2014;Lajeado;21:40;Lajeado;2;25;false;C;222.0;0.0;222.0
+2;12/12/2014;Lajeado;21:41;Lajeado;1;26;true;C;12.0;5.0;17.0
+3;12/12/2014;Lajeado;21:42;Lajeado;1;34;true;C;12.0;5.0;17.0
+4;12/12/2014;Lajeado;21:44;Lajeado;2;26;false;V;222.0;0.0;222.0
+5;12/12/2014;Porto Alegre;21:52;Porto Alegre;4;39;false;C;24.9;0.0;24.9
+6;12/12/2014;Porto Alegre;21:52;Porto Alegre;4;39;false;V;24.9;0.0;24.9
+7;18/02/2016;Lajeado;20:28;Lajeado;3;33;true;V;22.0;5.0;27.0

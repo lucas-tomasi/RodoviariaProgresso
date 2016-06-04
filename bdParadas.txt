@@ -1,0 +1,6 @@
+1;2;Destino;12.0
+2;2;Destino;222.0
+4;4;Destino;24.9
+5;4;Destino;2222.0
+6;5;Destino;20.0
+3;2;Destino;22.0

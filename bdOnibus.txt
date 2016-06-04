@@ -1,0 +1,7 @@
+1;36;false;true;false
+Onibus 2;36;true;true;true
+Onibus 3;44;true;true;true
+Onibus 4;36;false;true;false
+Onibus 5;48;true;true;true
+Onibus 6;48;true;true;true
+666;44;true;true;false

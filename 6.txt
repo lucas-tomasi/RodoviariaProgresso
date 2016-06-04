@@ -1,0 +1,32 @@
+===========================
+
+ Rodoviaria Progresso
+
+ COD.: 6
+
+ Data: 12/12/2014
+
+ Hora: 21:52
+
+===========================
+
+ Status: V
+ Linha: picada aurora
+ Onibus: 666
+ Seguro: Não
+ Valor: 24.9
+ Valor Seguro: 0.0
+ Saida: 22:03
+ Origem: Progresso
+ Destino: Porto Alegre
+ Parada: Porto Alegre
+ Assento: 39
+
+ Valor Total: 24.9
+
+===========================
+
+ Boa Viagem!
+
+===========================
+

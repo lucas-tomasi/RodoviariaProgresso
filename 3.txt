@@ -1,0 +1,32 @@
+===========================
+
+ Rodoviaria Progresso
+
+ COD.: 3
+
+ Data: 12/12/2014
+
+ Hora: 21:42
+
+===========================
+
+ Status: V
+ Linha: 1
+ Onibus: Onibus 2
+ Seguro: Sim
+ Valor: 12.0
+ Valor Seguro: 5.0
+ Saida: 22:22
+ Origem: Progresso
+ Destino: Lajeado
+ Parada: Lajeado
+ Assento: 34
+
+ Valor Total: 17.0
+
+===========================
+
+ Boa Viagem!
+
+===========================
+

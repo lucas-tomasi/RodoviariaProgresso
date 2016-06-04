@@ -1,0 +1,32 @@
+===========================
+
+ Rodoviaria Progresso
+
+ COD.: 7
+
+ Data: 18/02/2016
+
+ Hora: 20:28
+
+===========================
+
+ Status: V
+ Linha: 3
+ Onibus: Onibus 4
+ Seguro: Sim
+ Valor: 22.0
+ Valor Seguro: 5.0
+ Saida: 22:22
+ Origem: Progresso
+ Destino: Lajeado
+ Parada: Lajeado
+ Assento: 33
+
+ Valor Total: 27.0
+
+===========================
+
+ Boa Viagem!
+
+===========================
+

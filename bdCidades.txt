@@ -1,0 +1,6 @@
+Progresso;RS;true
+Lajeado;RS;true
+Estrela;RS;true
+Porto Alegre;RS;true
+Canoas;RS;true
+Bento Gonçalves;RS;false
